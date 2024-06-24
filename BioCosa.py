@@ -114,6 +114,7 @@ def identify_variations(base, lines):
         nonstarted = True
         i += 1
         j = 0
+        maxIndex = len(base) - 1
 
     return matrice
 
