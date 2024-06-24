@@ -12,9 +12,9 @@ Componenti del gruppo:
 - Cambiago Silvia - mat. 879382
 - Farioli Alessio - mat. 879217
 
-================================================================================================
 
-Funzioni 
+
+# Funzioni 
 
 1. read_fasta(fasta_sequences): legge un file in formato FASTA ed estrae sequenze e relativi nomi.
 
