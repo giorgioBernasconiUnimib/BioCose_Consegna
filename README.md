@@ -9,7 +9,7 @@
 Componenti del gruppo:
 
 - Bernasconi Giorgio Luigi Maria - mat. 885948
-- Cambiago Sivia - mat. 879382
+- Cambiago Silvia - mat. 879382
 - Farioli Alessio - mat. 879217
 
 ================================================================================================
