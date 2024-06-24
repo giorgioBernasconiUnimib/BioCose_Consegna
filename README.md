@@ -12,7 +12,7 @@ Componenti del gruppo:
 - Cambiago Sivia - mat. 879382
 - Farioli Alessio - mat. 879217
 
-======
+================================================================================================
 
 Funzioni 
 
@@ -45,7 +45,7 @@ Funzioni
 - Ritorna:
   - matrice: matrice che indica la presenza di variazioni.
 
-========
+==============================================================================================================
 
 
 Indicazioni per l'esecuzione dello script
